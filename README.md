@@ -1,5 +1,7 @@
 # EmissorCafé #
 
+<h1>Observação: Tudo liberado mediante a acordos/contratos registrados em cartório, que fique claro isso. Nada feito de forma leviana.</h1>
+
 
 Executando o projeto pela primeira vez. <br/>
 1- Instale o SQLServer 2008, o mesmo se encontra aqui no projeto, dentro da pasta "_setup/files" <br>
